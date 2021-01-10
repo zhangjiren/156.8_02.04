@@ -13,7 +13,7 @@ var config = {
         "無聊就做了這個",
         "這是我花了很久的時間做的",
         "大約.....",
-        "10鐘",
+        "10分鐘",
         "因為很少見面",
         "所以還沒想到什麼話要說哈哈哈",
         "不過沒關系下次有機會",
@@ -45,7 +45,7 @@ var config = {
         bannar_coming: "裝飾",
         balloons_flying: "好像少點東西",
         cake_fadein: "蛋糕",
-        light_candle: "蠟燭？",
+        light_candle: "蠟燭",
         wish_message: "生日快樂",
         story: "給",
     }
