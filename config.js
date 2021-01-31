@@ -47,6 +47,7 @@ var config = {
     desc: {
         turn_on: "表演開始",
         play: "音樂",
+        bannar_coming: "裝飾",
         balloons_flying: "好像少點東西",
         cake_fadein: "蛋糕",
         light_candle: "蠟燭",
